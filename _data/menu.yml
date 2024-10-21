@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: todos os posts
+  - title: Todos os posts
     post_list:
       limit: 5
       show_more: true
